@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+*__pycache__/*
+
+# Jupyter Notebook generated files
+*.ipynb_checkpoints/*
+*/__pycache__/*
+
+# Ignore virtual environments
+*env/*
+*env*
+*venv/*
+*/*.ipynb_checkpoints*
