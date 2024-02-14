@@ -1,0 +1,5 @@
+Olá eu sou o Luiz Egito!
+Esse é um teste para o tokenizer
+eu estou tentando separar meu texto para separa-los
+aqui vai qualquer texto independente do que aconteça
+vamo ver como irá ficar!

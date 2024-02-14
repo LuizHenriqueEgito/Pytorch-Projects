@@ -1,0 +1,1 @@
+fazer um classificador com make_moons do sklearn
